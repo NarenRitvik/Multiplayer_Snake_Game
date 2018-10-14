@@ -1,0 +1,29 @@
+Multiplayer Snake Game:-
+
+Using C++ graphics libraries 
+------------------------
+Compilation: g++ snake.cpp -lGLU -lGL -lglut
+
+Instructions:
+
+player 1(blue snake):
+--------------------
+
+       w          ---->forward
+a             d   ---->sideways
+       s          ---->backward
+
+
+player 2(red snake):
+--------------------
+      u          ----->forward
+h            k   ----->sideways
+      j          ----->backward
+
+
+
+
+Name: Swargam Naren Ritvik
+Roll no: 1501053.
+IIIT Guwahati.
+CSE.
